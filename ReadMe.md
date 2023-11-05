@@ -1,1 +1,1 @@
-# LPDDR
+# DDR
